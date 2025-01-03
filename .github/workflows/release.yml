@@ -1,0 +1,7 @@
+name: Release-Build
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    uses: khanh-company-1/github-workflows/.github/workflows/release.yml@main
