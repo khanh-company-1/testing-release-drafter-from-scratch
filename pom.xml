@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.khanhcompany1</groupId>
     <artifactId>testing-release-drafter-from-scratch</artifactId>
-    <version>12.0.2-SNAPSHOT</version>
+    <version>12.0.2</version>
     <packaging>jar</packaging>
     <name>Testing Release Drafter From Scratch</name>
 
@@ -13,7 +13,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/khanh-company-1/testing-release-drafter-from-scratch.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v12.0.2</tag>
     </scm>
 
     <build>
