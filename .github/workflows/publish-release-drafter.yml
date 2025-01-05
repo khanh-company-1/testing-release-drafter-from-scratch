@@ -30,7 +30,7 @@ jobs:
     #       so manual input is not required unless custom values are needed.
     #
     # Uncomment and modify the inputs as needed:
-    # with:
+    with:
     #   tag: v10.0.0
     #   commitish: release/10.0
-    #   publish: false
+      publish: false
