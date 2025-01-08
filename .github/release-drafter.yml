@@ -1,4 +1,2 @@
 _extends: github-workflows
-replacers:
-  - search: 'feat'
-    replace: 'feat-replace'
+tag-template: maven-release-$NEXT_MINOR_VERSION
